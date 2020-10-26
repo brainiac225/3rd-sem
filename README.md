@@ -1,1 +1,1 @@
-# 3rd-sem LAB programs
+# 3rd semester LAB programs
